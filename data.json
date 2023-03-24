@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "Jessica C. Estrada",
+      "age": 21,
+      "quote": "Thou shall not steal"
+    }
+    ],
+  "section": [
+    {
+      "section": "BSIT - 3B",
+      "code": "T230",
+      "email": "2001102719@student.buksu.edu.ph"
+    }
+  ]
+}
